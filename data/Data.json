@@ -306,7 +306,7 @@
                     }
                 },
 		{
-                    "name": "metagp_test_juncos_car_1 #1/20",
+                    "name": "metagp_test_juncos_art_1 #1/20",
                     "id": 662,
                     "description": "metagp_test_juncos_car_1",
                     "shortDescription": null,
@@ -314,8 +314,8 @@
                     "saleType": "fixed",
                     "mediaPreviewUrl": "https://gpnfts.mypinata.cloud/ipfs/QmfLJAe6Kbp2NzgovLsG77cSenhGCLGexg28oSNFGkcWae",
                     "audioThumbnail": null,
-                    "MetaGPType": "Car",
-                    "AddressableId": "bbe9d17a8bb6e53_juncos_car_1",
+                    "MetaGPType": "Art",
+                    "AddressableId": "54451b4ca93c801_Art_01",
                     "createdAt": "2022-07-01T09:14:35.088Z",
                     "creator": {
                         "id": 24,
@@ -326,7 +326,7 @@
                     }
                 },
 		{
-                    "name": "metagp_test_juncos_car_1 #1/20",
+                    "name": "metagp_test_juncos_art_2 #1/20",
                     "id": 662,
                     "description": "metagp_test_juncos_car_1",
                     "shortDescription": null,
@@ -334,8 +334,8 @@
                     "saleType": "fixed",
                     "mediaPreviewUrl": "https://gpnfts.mypinata.cloud/ipfs/QmfLJAe6Kbp2NzgovLsG77cSenhGCLGexg28oSNFGkcWae",
                     "audioThumbnail": null,
-                    "MetaGPType": "Car",
-                    "AddressableId": "bbe9d17a8bb6e53_juncos_car_1",
+                    "MetaGPType": "Art",
+                    "AddressableId": "54451b4ca93c802_Art_02",
                     "createdAt": "2022-07-01T09:14:35.088Z",
                     "creator": {
                         "id": 24,
@@ -346,7 +346,7 @@
                     }
                 },
 		{
-                    "name": "metagp_test_juncos_car_1 #1/20",
+                    "name": "metagp_test_juncos_art_3 #1/20",
                     "id": 662,
                     "description": "metagp_test_juncos_car_1",
                     "shortDescription": null,
@@ -354,8 +354,8 @@
                     "saleType": "fixed",
                     "mediaPreviewUrl": "https://gpnfts.mypinata.cloud/ipfs/QmfLJAe6Kbp2NzgovLsG77cSenhGCLGexg28oSNFGkcWae",
                     "audioThumbnail": null,
-                    "MetaGPType": "Car",
-                    "AddressableId": "bbe9d17a8bb6e53_juncos_car_1",
+                    "MetaGPType": "Art",
+                    "AddressableId": "54451b4ca93c803_Art_03",
                     "createdAt": "2022-07-01T09:14:35.088Z",
                     "creator": {
                         "id": 24,
@@ -366,7 +366,7 @@
                     }
                 },
   		{
-                    "name": "metagp_test_juncos_car_1 #1/20",
+                    "name": "metagp_test_juncos_art_4 #1/20",
                     "id": 662,
                     "description": "metagp_test_juncos_car_1",
                     "shortDescription": null,
@@ -374,8 +374,8 @@
                     "saleType": "fixed",
                     "mediaPreviewUrl": "https://gpnfts.mypinata.cloud/ipfs/QmfLJAe6Kbp2NzgovLsG77cSenhGCLGexg28oSNFGkcWae",
                     "audioThumbnail": null,
-                    "MetaGPType": "Car",
-                    "AddressableId": "bbe9d17a8bb6e53_juncos_car_1",
+                    "MetaGPType": "Art",
+                    "AddressableId": "54451b4ca93c804_Art_04",
                     "createdAt": "2022-07-01T09:14:35.088Z",
                     "creator": {
                         "id": 24,
